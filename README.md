@@ -83,6 +83,13 @@ postgresql://<username>:<password>@<host>:5432/<database>
 ### Notes:
 After installed postgresql Add bin directory to the PATH environment variable
 
+```
+   C:\Program Files\PostgreSQL\16\bin
+   ```
+```
+   C:\Program Files\PostgreSQL\16\data
+   ```
+
 ### Postgresql Version Check
 ```
 postgres --version
